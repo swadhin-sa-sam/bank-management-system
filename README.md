@@ -24,7 +24,7 @@ A simple Bank Management System developed using Python.
 ```text
 bank_management_system/
 │
-├── banking_ system.py  
+├── banking_system.py  
 ├── accounts.json
 ├── transactions.json
 └── README.md
